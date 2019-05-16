@@ -6,8 +6,10 @@ to predict higher crime locations.
 We researched the following questions:
   1. Do we see a trend in crime rate?
   
-![Image description]
-(https://github.com/parin225/Python-HateCrime-Analysis/blob/master/Data%20Analysis%20Notebooks/Images/HateCrime_By_Year.png)
+![Image description](https://github.com/parin225/Python-HateCrime-Analysis/blob/master/Data%20Analysis%20Notebooks/Images/HateCrime_By_Year.png)
+
+![Image description](https://github.com/financialinvestigator01/Project_Teamwork/blob/master/Data_Analysis_Notebooks_ABB/Images/HateCrime_By_Year.png)
+    
     
     Crime rates increase over the years. 
     
