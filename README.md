@@ -3,6 +3,10 @@
 The purpose of this project was to chase our passion for a safe haven and use AI (our brains) 
 to predict higher crime locations.
 
+Methods Used: Data Visualization
+
+Technologies: Python, Pandas, Matplotlib, Jupyter notebook
+
 We researched the following questions:
   1. Do we see a trend in crime rate?
   
